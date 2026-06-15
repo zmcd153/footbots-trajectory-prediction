@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "football-trajectory-prediction"
+version = "0.1.0"
+description = "Top-view football tracking and multi-agent trajectory prediction research tools."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "pandas>=2.0",
+  "opencv-python>=4.8",
+  "torch>=2.1",
+  "tqdm>=4.66",
+  "ultralytics>=8.2",
+]
+
+[tool.setuptools]
+packages = ["src"]

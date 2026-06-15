@@ -1,0 +1,15 @@
+{
+  "note": "Replace image_points with points measured in your calibration frame.",
+  "image_points": [
+    [100.0, 100.0],
+    [1820.0, 100.0],
+    [1900.0, 980.0],
+    [80.0, 980.0]
+  ],
+  "field_points": [
+    [0.0, 0.0],
+    [105.0, 0.0],
+    [105.0, 68.0],
+    [0.0, 68.0]
+  ]
+}
