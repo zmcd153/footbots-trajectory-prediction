@@ -341,8 +341,3 @@ python -m src.render_multimodal_video \
 - Set Transformer
 - ByteTrack
 
-研究利用時は、原論文および本リポジトリの`CITATION.cff`を参照してください。
-
-## ライセンス
-
-この整理版ではライセンスを確定していません。GitHubで一般公開する前に、著作権者がMIT、Apache-2.0、GPL-3.0などのライセンスを選択し、`LICENSE`ファイルを追加してください。依存ライブラリとデータセットにはそれぞれ別のライセンスが適用されます。
